@@ -1,5 +1,3 @@
-package p.dehash;
-
 import java.math.BigInteger;
 
 public class DictGen {
