@@ -11,4 +11,4 @@ This program goes through all the possibile combinations of visible ASCII codes,
 * approx. 21 seconds to find a 4-character long password.
 
 # DeSHA256 on GPU/Cloud
-DeSHA256 can be setup to run on GPU and/or clouds to achieve a even better performance, for details, contact neo@nowing.com
+DeSHA256 can be setup to run on GPU and/or clouds to achieve an even better performance, for details, contact neo@nowing.com
