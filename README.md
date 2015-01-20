@@ -10,5 +10,8 @@ This program goes through all the possibile combinations of visible ASCII codes,
 * approx. 300 milliseconds to find a 3-character long password.
 * approx. 21 seconds to find a 4-character long password.
 
+# License
+DeSHA256 is free and released into the public domain. You do whatever you want with it. For details, see the license file in the repository.
+
 # DeSHA256 on GPU/Cloud
 DeSHA256 can be setup to run on GPU and/or clouds to achieve an even better performance, for details, contact neo@nowing.com
