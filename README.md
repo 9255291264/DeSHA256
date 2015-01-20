@@ -7,7 +7,7 @@ This program goes through all the possibile combinations of visible ASCII codes,
 
 # How fast?
 * approx. 2.5 million hashes per second on a gaming laptop(Intel Core i7-4700HQ 2.4GHz, Win 8.1 64-bit).
-* approx. 300 miliseconds to find a 3-character long password.
+* approx. 300 milliseconds to find a 3-character long password.
 * approx. 21 seconds to find a 4-character long password.
 
 # DeSHA256 on GPU/Cloud
